@@ -1,0 +1,27 @@
+2021-09-02 14:47:00,343 : INFO : test_form_submission : First name is Dileep
+2021-09-02 14:47:02,382 : INFO : test_form_submission : First name is Revathi
+2021-09-02 14:47:02,382 : INFO : test_form_submission : First name is Revathi
+2021-09-02 14:47:13,603 : INFO : test_e2e : Clicking Shop
+2021-09-02 14:47:14,856 : INFO : test_e2e : Selecting Item
+2021-09-02 14:47:15,333 : INFO : test_e2e : clicking Checkout
+2021-09-02 14:47:15,572 : INFO : test_e2e : Entering Country name
+2021-09-02 14:47:21,703 : INFO : test_e2e : Capturing Success message
+2021-09-02 14:47:21,726 : INFO : test_e2e : Text from after purchasing ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-02 14:59:03,923 : INFO : test_form_submission : First name is Dileep
+2021-09-02 14:59:04,709 : INFO : test_form_submission : First name is Revathi
+2021-09-02 14:59:04,709 : INFO : test_form_submission : First name is Revathi
+2021-09-02 14:59:07,933 : INFO : test_e2e : Clicking Shop
+2021-09-02 14:59:09,243 : INFO : test_e2e : Selecting Item
+2021-09-02 14:59:09,359 : INFO : test_e2e : clicking Checkout
+2021-09-02 14:59:09,415 : INFO : test_e2e : Entering Country name
+2021-09-02 14:59:14,814 : INFO : test_e2e : Capturing Success message
+2021-09-02 14:59:14,838 : INFO : test_e2e : Text from after purchasing ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-02 16:52:43,334 : INFO : test_e2e : Clicking Shop
+2021-09-02 16:52:45,136 : INFO : test_e2e : Selecting Item
+2021-09-02 16:52:45,246 : INFO : test_e2e : clicking Checkout
+2021-09-02 16:52:45,298 : INFO : test_e2e : Entering Country name
+2021-09-02 16:52:50,675 : INFO : test_e2e : Capturing Success message
+2021-09-02 16:52:50,702 : INFO : test_e2e : Text from after purchasing ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

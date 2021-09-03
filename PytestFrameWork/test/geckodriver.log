@@ -1,0 +1,28 @@
+1630389474049	geckodriver	INFO	Listening on 127.0.0.1:63684
+1630389477132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DILEEP~1\\AppData\\Local\\Temp\\rust_mozprofileDnayiI"
+1630389477948	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dileep Thummaluru\\AppData\\Local\\Temp\\rust_mozprofileDnayiI\\search.json.mozlz4", (void 0)))
+1630389481082	Marionette	INFO	Listening on port 63692
+1630389481338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1630389491943	Marionette	INFO	Stopped listening on port 63692
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630574211719	geckodriver	INFO	Listening on 127.0.0.1:52710
+1630574214799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DILEEP~1\\AppData\\Local\\Temp\\rust_mozprofilelpgpe6"
+1630574215529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dileep Thummaluru\\AppData\\Local\\Temp\\rust_mozprofilelpgpe6\\search.json.mozlz4", (void 0)))
+1630574218121	Marionette	INFO	Listening on port 52719
+1630574218494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1630574225376	Marionette	INFO	Stopped listening on port 52719
+1630574226288	geckodriver	INFO	Listening on 127.0.0.1:63272
+1630574229340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DILEEP~1\\AppData\\Local\\Temp\\rust_mozprofileXjOxUv"
+1630574229755	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dileep Thummaluru\\AppData\\Local\\Temp\\rust_mozprofileXjOxUv\\search.json.mozlz4", (void 0)))
+1630574231925	Marionette	INFO	Listening on port 64481
+1630574232036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1630574241732	Marionette	INFO	Stopped listening on port 64481
